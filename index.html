@@ -31,6 +31,7 @@
       #navFirst img {
         width: 100px;
       }
+
       #navMid {
         display: flex;
         width: 500px;
@@ -143,6 +144,32 @@
 
       #imgMain {
         width: 435px;
+      }
+      /* mobile responsive */
+      @media screen and (max-width: 1024px) {
+        #navMid {
+          margin-left: 50px;
+        }
+        #midWholePart1 #midWholePart11 #monstera {
+          font-size: 4rem;
+        }
+      }
+      @media screen and (max-width: 768px) {
+        .imgMain, #navMid{
+          display: none;
+        }
+         #midWholePart1 #midWholePart11 #monstera {
+          font-size: 3rem;
+        }
+        #midWholePart1{
+          height: 80vh;
+        }
+        #midWhole{
+          padding-right: 20px;
+        }
+        .midWholePart13Parts{
+          margin-left: 20px;
+        }
       }
     </style>
   </head>
