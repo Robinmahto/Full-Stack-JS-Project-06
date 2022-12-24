@@ -1,10 +1,11 @@
-# Assignment - 06
+# Plant-Home-Page
 
-## Project 06 [Live Link](https://full-stack-js-projects-06.netlify.app/)
+## Project 06 [Live Link](https://plant-home-pages-06.netlify.app/)
 
 - ### skills used in project
   - Learn media query, flexbox etc.
   - Learn to making background images responsive.
   - Total time taken 2hr to complete.
-### Screenshot
+## ScreenShot
+### Desktop
 ![assignment 06](plant-home-page.png)
